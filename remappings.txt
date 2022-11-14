@@ -1,0 +1,4 @@
+@openzeppelin=lib/openzeppelin-contracts
+@openzeppelin-upgradeable=lib/openzeppelin-contracts-upgradeable
+@safe=lib/safe-contracts
+@uniswapv2=src/src-0_6_x/uniswapv2
